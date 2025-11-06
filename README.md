@@ -22,7 +22,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/sheikh-abdul-munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh abdul munim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sheikh-abdul-munim-b19391158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh abdul munim" height="30" width="40" /></a>
 <a href="https://kaggle.com/sheikhmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sheikhmunim" height="30" width="40" /></a>
 <a href="https://fb.com/sheikhabdulmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh abdul munim" height="30" width="40" /></a>
 <a href="https://instagram.com/mun1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mun1m" height="30" width="40" /></a>
