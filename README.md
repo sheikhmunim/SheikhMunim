@@ -15,7 +15,7 @@
 - 🧠 I’m passionate about **trustworthy human–robot communication**, **dynamic replanning**, and **safe AI systems**.  
 - 💬 Ask me about **Deep Learning, NLP, ROS2, PDDL, Clingo, or Python AI pipelines**  
 - 📫 Reach me at **sheikh00munim@gmail.com**  
-- 📄 Learn more about my work: [My Project Repository](https://github.com/SheikhMunim/Personal-Documents.git)  
+- 📄 Learn more about my work: [My Project Repository](https://github.com/sheikhmunim?tab=repositories)  
 - ⚡ Fun fact: *Where there is a code, there is a way.*
 
 ---
