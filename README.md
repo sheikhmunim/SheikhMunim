@@ -102,13 +102,14 @@ A **Blockly**-based drag-and-drop interface for programming the TIAGo robot, wit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmunim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhmunim&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmunim&theme=tokyo-night&hide_border=true&area=true" alt="commit activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhmunim&theme=onedark&no-frame=true&row=1&column=6&margin-w=15" alt="trophies" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhmunim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="github stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmunim&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="top langs" />
 </p>
