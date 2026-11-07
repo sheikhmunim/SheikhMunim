@@ -1,68 +1,69 @@
-<h1 align="center">Hi 👋, I'm Sheikh Abdul Munim</h1>
-<h3 align="center">AI/ML Engineer · Neuro-Symbolic AI · Robotics · Melbourne, Australia</h3>
+<h1 align="center">Sheikh Abdul Munim</h1>
+<h3 align="center">AI/ML Engineer · Neuro-Symbolic AI · Robotics</h3>
+<p align="center"><i>Where there is a problem, there is a symbolic constraint for it.</i></p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sheikhmunim&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmunim" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikh-abdul-munim-b19391158/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sheikh00munim@gmail.com"><img src="https://img.shields.io/badge/Email-sheikh00munim@gmail.com-d14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://kaggle.com/sheikhmunim"><img src="https://img.shields.io/badge/Kaggle-sheikhmunim-20beff?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/munim404"><img src="https://img.shields.io/badge/HackerRank-munim404-2ec866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sheikhmunim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🌟 About Me
+## About
 
-- 🎓 **M.A.I. Graduate, RMIT University** (December 2025) — specialising in neuro-symbolic AI systems
-- 🤖 **Casual Seasonal Researcher(AI/ML Systems)** at [VxLab (STEM Hub for Digital Innovation)](https://www.rmit.edu.au/), RMIT — building the **TIAGo Intelligent Programming Interface**, a Blockly-based visual robot programming tool with an embedded AI assistant (React · FastAPI · ROSBridge · ROS · Docker · Ollama)
-- 🧠 My differentiator: combining **LLMs with symbolic reasoning** (Answer Set Programming / Clingo · Prolog) for systems that are both intelligent *and* interpretable
-- 🚀 Shipped production projects: **[Aion](https://github.com/sheikhmunim/Aion)** (neuro-symbolic scheduling agent, pip-installable) and **[ApplyVista](https://github.com/sheikhmunim/ApplyVista)** (multi-agent RAG job assistant with LangGraph + Next.js)
-- 🔬 Explored: ASP-MCP framework (symbolic guardrails for LLM tool calls), WiFi CSI perimeter security with ASP reasoning, Bangla OCR with constraint decoding
-- 💬 Ask me about **neuro-symbolic AI · LangGraph · Clingo/ASP · ROS · LLM pipelines · Python**
-- 📫 **sheikh00munim@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sheikh-abdul-munim-b19391158/)
-- ⚡ *Where there is a problem, there is a symbolic constraint for it.*
+I build AI systems that are intelligent **and** verifiable. My work pairs LLMs with symbolic reasoning (Answer Set Programming with Clingo, Prolog, PDDL planning) so that agents and robots follow hard constraints instead of hoping the model gets it right.
 
----
-
-### 🔧 What I Build
-
-| Domain | Stack |
-|---|---|
-| **Neuro-Symbolic AI** | Clingo (ASP) · Prolog · pyswip · LLM + symbolic integration |
-| **LLM Pipelines & Agents** | LangGraph · LangChain · Ollama · FastAPI · RAG · ReAct |
-| **Robotics** | ROS / ROS2 · ROSBridge · TIAGo · PDDL planning |
-| **Full-Stack AI Apps** | React · Next.js · TypeScript · FastAPI · ChromaDB · Docker |
-| **ML / Deep Learning** | PyTorch · Transformers · CNNs · RNNs · scikit-learn |
-| **Data & Vision** | OpenCV · pandas · NumPy · Jupyter |
+- 🎓 **Master of AI, RMIT University** (December 2025, Distinction). Thesis: multi-head BERT combined with PDDL symbolic planning for natural-language-driven robot control
+- 🎓 **Bachelor's in Mechanical Engineering (Mechatronics), Lovely Professional University** (2022), the hardware foundation behind my robotics work
+- 🤖 **Robotics Software Engineer at [VxLab](https://www.rmit.edu.au/), RMIT** (Melbourne). I build and maintain robot software (SLAM, motion planning, navigation, simulation) for the lab's UR5, TIAGo and Pepper robots, and mentor student capstone teams
+- 🚀 **Shipped:** [Aion](https://github.com/sheikhmunim/Aion) (pip-installable scheduling agent) and [ApplyVista](https://github.com/sheikhmunim/ApplyVista) (multi-agent RAG job assistant)
+- 🔬 **Exploring:** symbolic guardrails for LLM tool calls over MCP, rule-aware robot navigation with ASP, WiFi CSI perimeter security, Bangla OCR with constraint decoding, and Rust for systems work
+- 📍 Melbourne, Australia. **Open to full-time AI/ML engineering roles.**
+- 💬 Ask me about neuro-symbolic AI, LangGraph, Clingo/ASP, ROS, and LLM pipelines
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-#### 🗓️ [Aion — Neuro-Symbolic Scheduling Agent](https://github.com/sheikhmunim)
-> `pip install aion-agent`
+### 🗓️ [Aion: Neuro-Symbolic Scheduling Agent](https://github.com/sheikhmunim/Aion)
+`pip install aion-agent`
 
-A calendar scheduling agent that routes natural language requests through an LLM, then enforces logical scheduling constraints using **Clingo (ASP)** before committing to Google Calendar. Demonstrates how symbolic reasoning can make LLM outputs verifiably correct.
+A calendar agent that sends natural language requests through an LLM, then checks the result against logical scheduling constraints in **Clingo (ASP)** before anything is written to Google Calendar. The LLM proposes, the solver verifies.
 
 `Python` · `Clingo` · `Ollama` · `Google Calendar API` · `ASP`
 
----
+### 📋 [ApplyVista: Multi-Agent Job Application Assistant](https://github.com/sheikhmunim/ApplyVista)
+Production-deployed RAG pipeline for job applications.
 
-#### 📋 [ApplyVista — Multi-Agent Job Application Assistant](https://github.com/sheikhmunim)
-> Production-deployed RAG pipeline for job applications
-
-A **LangGraph**-orchestrated multi-agent system that ingests job postings, retrieves relevant CV/portfolio context from a **ChromaDB** vector store, and drafts tailored application materials — all running locally via Ollama.
+A **LangGraph** multi-agent system that ingests job postings, retrieves relevant CV and portfolio context from a **ChromaDB** vector store, and drafts tailored application materials. Runs locally through Ollama.
 
 `LangGraph` · `FastAPI` · `Next.js` · `ChromaDB` · `Ollama` · `TypeScript`
 
----
+### 🤖 TIAGo Intelligent Programming Interface *(VxLab, RMIT)*
+Visual robot programming for non-technical users.
 
-#### 🤖 TIAGo Intelligent Programming Interface *(VxLab @ RMIT)*
-> Visual robot programming for non-technical users
-
-A **Blockly**-based drag-and-drop interface for programming the TIAGo robot, with an embedded AI assistant that explains blocks, suggests workflows, and handles ROS command dispatch — all via a React frontend and FastAPI + ROSBridge backend.
+A **Blockly** drag-and-drop interface for programming the TIAGo robot, with an embedded AI assistant that explains blocks, suggests workflows and dispatches ROS commands. React frontend, FastAPI + ROSBridge backend, containerised with Docker.
 
 `React` · `Blockly` · `FastAPI` · `ROS` · `ROSBridge` · `Docker` · `Ollama`
 
 ---
 
-### 🧰 Languages & Tools
+## Tech Stack
+
+| Domain | Tools |
+|---|---|
+| **Neuro-Symbolic AI** | Clingo (ASP) · Prolog · PDDL · pyswip · LLM + solver integration |
+| **LLM Pipelines & Agents** | LangGraph · LangChain · Ollama · RAG · ReAct · MCP |
+| **Robotics Software** | ROS / ROS2 · ROSBridge · SLAM & mapping · Motion planning · Navigation · Kinematics & robot control · Simulation |
+| **Robot Platforms** | TIAGo · UR5 · Pepper (NAOqi) |
+| **Robot Perception** | Computer vision for robots · OpenCV |
+| **Embedded & Hardware** | Arduino · sensors · microcontrollers |
+| **Full-Stack AI Apps** | React · Next.js · TypeScript · FastAPI · ChromaDB · Docker |
+| **ML / Deep Learning** | PyTorch · TensorFlow · Transformers · scikit-learn |
+| **Data & Vision** | OpenCV · pandas · NumPy · Jupyter |
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -76,34 +77,20 @@ A **Blockly**-based drag-and-drop interface for programming the TIAGo robot, wit
   <a href="https://ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-</p>
-
-**Also working with:** Clingo · Prolog · LangGraph · LangChain · Ollama · ROSBridge · ChromaDB · TypeScript · Blockly
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sheikh-abdul-munim-b19391158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://kaggle.com/sheikhmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/munim404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmunim&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheikhmunim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmunim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmunim&theme=tokyo-night&hide_border=true&area=true" alt="commit activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmunim&theme=tokyo-night&hide_border=true&area=true" alt="Commit activity graph" />
 </p>
-
-
-
