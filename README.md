@@ -84,13 +84,14 @@ A **Blockly** drag-and-drop interface for programming the TIAGo robot, with an e
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheikhmunim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmunim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/sheikhmunim?tab=followers"><img src="https://img.shields.io/github/followers/sheikhmunim?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/sheikhmunim/Aion"><img src="https://img.shields.io/github/stars/sheikhmunim/Aion?style=for-the-badge&logo=github&label=Aion%20stars&color=0e75b6" alt="Aion stars" /></a>
+  <a href="https://github.com/sheikhmunim/ApplyVista"><img src="https://img.shields.io/github/stars/sheikhmunim/ApplyVista?style=for-the-badge&logo=github&label=ApplyVista%20stars&color=0e75b6" alt="ApplyVista stars" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmunim&theme=tokyo-night&hide_border=true&area=true" alt="Commit activity graph" />
+  <a href="https://github.com/sheikhmunim?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
 </p>
